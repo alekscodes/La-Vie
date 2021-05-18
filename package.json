@@ -3,6 +3,8 @@
 	"displayName": "La Vie",
 	"description": "La Vie is a simple dark theme for Visual Studio Code that shows the beauty of life. Check it out -:)",
 	"version": "0.0.1",
+	"publisher": "Alex Kimeu",
+	"icon": "./images/icon.png",
 	"engines": {
 		"vscode": "^1.56.0"
 	},
