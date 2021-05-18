@@ -1,13 +1,16 @@
-# README
-## This is the README for your extension "la-vie"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+# La Vie
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+La Vie is a simple dark theme for Visual Studio Code that shows the beauty of life. Check it out -:)
 
-**Enjoy!**
+## Acknowledgements
+
+ - [readme.so](https://readme.so)
+ - [Creating a VS Code theme](https://dev.to/juhanakristian/creating-a-vs-code-theme-4g87)
+
+  
+## Authors
+
+- [Alex Kimeu](https://www.github.com/alekscodes)
+
+  

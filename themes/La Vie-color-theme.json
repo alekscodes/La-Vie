@@ -1,5 +1,5 @@
 {
-	"name": "Cityzens",
+	"name": "La Vie",
 	"type": "dark",
 	"colors": {
 		"activityBar.background": "#22223a",
@@ -13,38 +13,51 @@
 		"editor.background": "#22223a",
 		"editor.findMatchBackground": "#34374c",
 		"editor.foreground": "#78868d",
-		"editorGroupHeader.tabsBackground": "#282847",
-		"editor.lineHighlightBackground": "#2b2d42",
 		"editor.hoverHighlightBackground": "#2b2d42",
+		"editor.lineHighlightBackground": "#2b2d42",
+		"editor.selectionBackground": "#31345c",
 		"editorCursor.foreground": "#ffffff",
-		"editorGutter.background": "#282847",
-		"editorLineNumber.foreground": "#b3b2b2ad",
-		"editorLineNumber.activeForeground": "#fdfdfde0",
-		"editorPane.background": "#2b2d42",	
+		"editorGroupHeader.tabsBackground": "#22223a",
+		"editorGutter.background": "#2d2d4d",
 		"editorGutter.foldingControlForeground": "#ffffff",
 		"editorGutter.modifiedBackground": "#5073a0",
+		"editorHoverWidget.background": "#272742",
+		"editorLineNumber.foreground": "#b3b2b2ad",
+		"editorLineNumber.activeForeground": "#fdfdfde0",
+		"editorPane.background": "#2b2d42",			
 		"list.activeSelectionForeground": "#C792EA",
 		"list.activeSelectionBackground": "#202040",
 		"list.hoverBackground": "#22223a",
+		"list.inactiveSelectionBackground": "#393963",
+		"panel.background": "#272742",
+		"panel.border": "#525286",
+		"panelTitle.activeBorder": "#ffac41",
+		"panelTitle.activeForeground": "#ffac41",
+		"panelTitle.inactiveForeground": "#82AAFF",
 		"sideBar.background": "#272742",
 		"sideBar.border": "#2f3032",
-		"sideBar.foreground": "#e2cc95",
-		"sideBarSectionHeader.background": "#34374c",
+		"sideBar.foreground": "#a9c2f8",
+		"sideBarSectionHeader.background": "#26283a",
 		"sideBarSectionHeader.border": "#2f3032",
-		"sideBarSectionHeader.foreground": "#ffac41",
+		"sideBarSectionHeader.foreground": "#f8ca84",
 		"sideBarTitle.foreground": "#ffc93c",
-		"statusBar.border": "#1B1929",
+		"statusBar.background": "#212158",
+		"statusBar.border": "#323255",
     	"statusBar.debuggingBackground": "#1c394d",
-		"statusBarItem.hoverBackground": "#22223a",				
-		"statusBar.background": "#273e47",
-		"tab.activeBackground": "#2b2d42",
-		"tab.activeBorder": "#fa7b04",
-		"tab.activeForeground": "#fa7b04",
+		"statusBarItem.hoverBackground": "#182a46",	
+		"statusBar.foreground": "#a9c2f8",			
+		"tab.activeBackground": "#282847",
+		"tab.activeBorder": "#82AAFF",
+		"tab.activeForeground": "#cf6501",
 		"tab.border": "#2f3032",		
-		"tab.inactiveBackground": "#282847",
-		"tab.inactiveForeground": "#ffb26b",
-		"terminal.background": "#23253a",		
+		"tab.hoverBackground": "#282847",
+		"tab.hoverBorder": "#282847",
+		"tab.inactiveBackground": "#22223a",
+		"tab.inactiveForeground": "#fd9b3f",
+		"terminal.background": "#23253a",	
+		"terminal.foreground": "#8fb5fd",
 	},
+
 	"tokenColors": [
 		{
 			"name": "Comment",
@@ -64,7 +77,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#f5a31a"
+				"foreground": "#aea1f8" // Variables color
 			}
 		},
 		{
@@ -94,7 +107,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#f7da9c"
+				"foreground": "#b78dfc"
 			}
 		},
 		{
@@ -196,7 +209,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#e7bc47"
 			}
 		},
 		{
@@ -269,7 +282,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#c08bfd"
 			}
 		},
 		{
