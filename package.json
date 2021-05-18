@@ -3,8 +3,21 @@
 	"displayName": "La Vie Dark Theme",
 	"description": "La Vie is a simple dark theme for Visual Studio Code that shows the beauty of life. Check it out -:)",
 	"version": "0.0.1",
-	"publisher": "Alex Kimeu",
-	"icon": "https://raw.githubusercontent.com/alekscodes/La-Vie/master/images/icon.png",
+	"publisher": "AlexKimeu",
+	"icon": "images/icon.png",
+	"author": {
+		"name": "Alex Kimeu",
+		"email": "kimeualeks@gmail.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alekscodes/La-Vie"
+	},
+	"bugs": {
+		"url": "https://github.com/alekscodes/La-Vie/issues",
+		"email": "kimeualeks@gmail.com"
+	},
+	"homepage": "https://github.com/alekscodes/La-Vie/blob/main/README.md",
 	"engines": {
 		"vscode": "^1.56.0"
 	},
