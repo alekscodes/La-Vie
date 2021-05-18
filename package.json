@@ -1,0 +1,21 @@
+{
+    "name": "la-vie",
+    "displayName": "La Vie",
+    "description": "La Vie is a simple dark theme for Visual Studio Code that portrays the beauty of life -:)",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "La Vie",
+                "uiTheme": "vs-dark",
+                "path": "./themes/La Vie-color-theme.json"
+            }
+        ]
+    }
+}
