@@ -18,6 +18,10 @@
 		"email": "kimeualeks@gmail.com"
 	},
 	"homepage": "https://github.com/alekscodes/La-Vie/blob/main/README.md",
+	"galleryBanner": {
+		"color": "#181825",
+		"theme": "dark"
+	},
 	"engines": {
 		"vscode": "^1.56.0"
 	},

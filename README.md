@@ -18,4 +18,6 @@ La Vie is a simple dark theme for Visual Studio Code that shows the beauty of li
 ## Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/alekscodes/La-Vie/master/images/1.png)
+
+
 ![App Screenshot](https://raw.githubusercontent.com/alekscodes/La-Vie/master/images/2.png)
