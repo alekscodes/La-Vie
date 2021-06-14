@@ -2,7 +2,7 @@
 	"name": "la-vie",
 	"displayName": "La Vie Dark Theme",
 	"description": "La Vie is a simple dark theme for Visual Studio Code that shows the beauty of life. Check it out -:)",
-	"version": "0.0.1",
+	"version": "0.1.1",
 	"publisher": "AlexKimeu",
 	"icon": "images/icon.png",
 	"author": {
